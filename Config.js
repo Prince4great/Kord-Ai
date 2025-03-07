@@ -2,7 +2,7 @@
 
 global.settings = {
   OWNER_NUMBERS: "2348062925069", // your number with country code
-  OWNER_NAME: Prince', // your owner name 
+  OWNER_NAME: Prince Emmanuel', // your owner name 
   BOT_NAME: 'Smart', // your preferred bot name
   SESSION_ID: 'kord_ai-gOJQ9ALfaipn', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
@@ -30,7 +30,7 @@ global.settings = {
     OPENWEATHERMAP_API_KEY: ''
   },
   isHackEnable: true,
-  SAFE_SEARCH: true,
+  SAFE_SEARCH: falsw,
   REJECT_CALLS: true,
   SEND_WELCOME_MESSAGE: false,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
